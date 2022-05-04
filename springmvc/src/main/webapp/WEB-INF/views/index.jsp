@@ -16,7 +16,7 @@
 <h1> &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; DevOpsLab-LiveScenarios hands-on</h1> 
 </div>
 <div style='float:left'>
-<table class="table table-borderless" style="margin-left:0%;float:top;">
+<table class="table" style="margin-left:0%;float:top;">
 <colgroup>
        <col span="1" style="width: 15%;">
        <col span="1" style="width: 40%;">
