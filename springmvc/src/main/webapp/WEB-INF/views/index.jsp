@@ -3,12 +3,10 @@
 
 <html>
 
-<head>
-
 <meta charset="UTF-8">
 <title>Home Page</title>
 <link href="<c:url value="/resources/css/style.css" />" />
-</head>
+
 <body>
 <form action="">
 <div style="display:block;text-align:left">
